@@ -1,0 +1,131 @@
+{
+  "client": [
+    {
+      "id": "0",
+      "nombre": "leo",
+      "apellido": "tamayo",
+      "correo": "leodev@gmail.com",
+      "telefono": "4548666"
+    },
+    {
+      "id": "1",
+      "nombre": "edd",
+      "apellido": "ford",
+      "correo": "edd@slsl.com",
+      "telefono": "4548666"
+    },
+    {
+      "id": "2",
+      "nombre": "tom",
+      "apellido": "tesla",
+      "correo": "tesla@grmg.com",
+      "telefono": "4548666"
+    },
+    {
+      "id": "3",
+      "nombre": "caroline",
+      "apellido": "escobar",
+      "correo": "caro@ttt.com",
+      "telefono": "4548666"
+    },
+    {
+      "id": "4",
+      "nombre": "roland",
+      "apellido": "gomez",
+      "correo": "roland@rrr.com",
+      "telefono": "4548666"
+    },
+    {
+      "id": "5",
+      "nombre": "angie",
+      "apellido": "pinzon",
+      "correo": "angiepi@gmail.com",
+      "telefono": "4548666"
+    },
+    {
+      "id": "6",
+      "nombre": "anny",
+      "apellido": "garcia",
+      "correo": "anny@gmail.com",
+      "telefono": "4548666"
+    },
+    {
+      "id": "b409",
+      "nombre": "test",
+      "apellido": "ui",
+      "correo": "test@gmail.com",
+      "telefono": "4548666"
+    },
+    {
+      "id": "dff9",
+      "nombre": "new",
+      "apellido": "test",
+      "correo": "newtest@ggg.com",
+      "telefono": "4548666"
+    },
+    {
+      "id": "9fe3",
+      "nombre": "test",
+      "apellido": "test test",
+      "correo": "test@tes.com",
+      "telefono": "4548666"
+    },
+    {
+      "id": "83ba",
+      "nombre": "test",
+      "apellido": "new",
+      "correo": "thisis@atest",
+      "telefono": "123456"
+    }
+  ],
+  "pedido": [
+    {
+      "id": "0",
+      "cod_cliente": "1",
+      "fecha_entrega": "2024-05-20",
+      "valor_pedido": "5000",
+      "cod_producto": "3",
+      "cantidad_producto": "4"
+    },
+    {
+      "id": "0",
+      "cod_cliente": "2",
+      "fecha_entrega": "2024-05-20",
+      "valor_pedido": "3200",
+      "cod_producto": "2",
+      "cantidad_producto": "2"
+    }
+  ],
+  "producto": [
+    {
+      "id": "1",
+      "producto": "pan de la abuela",
+      "descripcion": "delicioso con con leche y costra de nata",
+      "valor": "2500"
+    },
+    {
+      "id": "2",
+      "producto": "Croissant de queso",
+      "descripcion": "Relleno de queso y cubierta con ajonjoli",
+      "valor": "3000"
+    },
+    {
+      "id": "3",
+      "producto": "Postres de chocolate",
+      "descripcion": "torta con cubierta de chocolate y frutas",
+      "valor": "5000"
+    },
+    {
+      "id": "4",
+      "producto": "Baguette",
+      "descripcion": "delicios recien horneado crocante y con relleno de queso",
+      "valor": "2000"
+    },
+    {
+      "id": "e9b2",
+      "producto": "Pan costeño",
+      "descripcion": "Relleno de arequipe y cubierto de queso",
+      "valor": "4000"
+    }
+  ]
+}
